@@ -1,4 +1,8 @@
 # Text-Analytics---LSTM-Network
+Objective 
+
+For this project, our objective is to use different deep learning methods to predict the ratings from Yelp reviews solely based on the reviews text. 
+
 LSTM 
 
 LSTM stands for “Long Short-Term Memory.” It is a method used for many regression and time series prediction, but it can be used for text data as well. Utilizing neural networks, LSTM is a variant of Recurrent Neural Networks (RNNS) but have several advantages over them. They solve the problem of exploding and vanishing gradients that often occur with RNNs. This makes them ideal for working with text data. For our project, we sought to categorize reviews into separate review rating categories with LSTMs.  
